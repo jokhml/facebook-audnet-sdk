@@ -9,8 +9,8 @@
     <description>Add Facebook SDK to Cordova porject, as dependency for other plugins</description>
     <author>Facebook</author>
     <keywords>rjfun,cordova,facebook,sdk</keywords>
-    <repo>https://github.com/mujaffars/facebook-audnet-sdk.git</repo>
-    <issue>https://github.com/mujaffars/facebook-audnet-sdk/issues</issue>
+    <repo>https://github.com/jokhml/facebook-audnet-sdk.git</repo>
+    <issue>https://github.com/jokhml/facebook-audnet-sdk/issues</issue>
 
     <engines>
         <engine name="cordova" version=">=3.0" />
